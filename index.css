@@ -1,0 +1,79 @@
+body{
+    background: black;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 280px;
+    min-height: 250px;
+}
+
+#save-btn, #save-btn2{
+    display: flex;
+    color: white;
+    background: green;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 15px;
+    font-weight: bold;
+    text-shadow: 0px 2px black;
+}
+
+#input-el{
+    padding: 10px 5px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid green;
+    
+}
+
+#save_div{
+    color: green;
+    height: auto;
+    display: flex;
+    border: none;
+    border-radius: 5px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+
+}
+
+#myList{
+    margin: 5px 0px;
+    
+}
+
+#saved_ls{
+    margin-top: 10px;
+}
+
+#del-btn{
+    background: red;
+    color: white;
+    border: none;
+    border: none;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px 15px;
+    font-weight: bold;
+    text-shadow: 0px 0px 10px black;
+
+}
+
+ul{
+
+    list-style: square;
+    color: green;
+    margin-left: -25px;
+
+    
+}
+
+li{
+    margin: 0px 0px;
+}
+
+a{
+    color: green;
+    font-size: 15px;
+}
