@@ -2,7 +2,6 @@
 
 Leads is a simple Chrome extension that allows you to save bookmarks effortlessly. You can save bookmarks either by copying the link directly or automatically using the Chrome API to access the current active tab and save it in local storage.
 
-![Leads Logo](./images/logo.png)
 
 ## Table of Contents
 
@@ -10,7 +9,6 @@ Leads is a simple Chrome extension that allows you to save bookmarks effortlessl
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -19,7 +17,7 @@ To install Leads, follow these simple steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/leads.git
+   git clone https://github.com/Padfoots/leads.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions`.
@@ -44,8 +42,6 @@ Once the Leads extension is installed, you can start saving bookmarks using eith
    - Click on the Leads extension icon in the Chrome toolbar.
    - click on Save current tab
    - The extension will automatically save the current active tab as a bookmark.
-
-![Leads Extension Popup](./images/popup.png)
 
 ## Features
 
@@ -72,6 +68,6 @@ We appreciate your contributions!
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - Email: youssefsamir2000@gmail.com
-- GitHub Issues: [https://github.com/your-username/leads/issues](https://github.com/Padfoots/leads/issues)
+- GitHub Issues: [https://github.com/Padfoots/leads/issues]
 
 Happy bookmarking with Leads!
