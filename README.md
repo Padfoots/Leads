@@ -2,6 +2,9 @@
 
 Leads is a simple Chrome extension that allows you to save bookmarks effortlessly. You can save bookmarks either by copying the link directly or automatically using the Chrome API to access the current active tab and save it in local storage.
 
+![Leads Logo](./images/leads_logo.png)
+![screenshot](./images/Screenshot_8.png)
+![screenshot](./images/Screenshot_9.png)
 
 ## Table of Contents
 
