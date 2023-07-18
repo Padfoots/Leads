@@ -1,5 +1,5 @@
 body{
-    background: black;
+    background:#3AB492;
     color: whitesmoke;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 280px;
@@ -8,14 +8,15 @@ body{
 
 #save-btn, #save-btn2{
     display: flex;
-    color: white;
-    background: green;
+    color: #3AB492 ;
+    background: white;
     border: none;
     border-radius: 5px;
     margin: 10px 0;
     padding: 10px 15px;
     font-weight: bold;
-    text-shadow: 0px 2px black;
+    
+
 }
 
 #input-el{
@@ -23,12 +24,12 @@ body{
     width: 100%;
     box-sizing: border-box;
     border-radius: 5px;
-    border: 2px solid green;
+    border: 2px solid #3AB492;
     
 }
 
 #save_div{
-    color: green;
+    color: white;
     height: auto;
     display: flex;
     border: none;
@@ -48,22 +49,20 @@ body{
 }
 
 #del-btn{
-    background: red;
-    color: white;
-    border: none;
-    border: none;
+    background:white;
+    color: red;
+    border: 2px solid #3AB492;
     border-radius: 5px;
     margin: 10px 0;
     padding: 10px 15px;
     font-weight: bold;
-    text-shadow: 0px 0px 10px black;
 
 }
 
 ul{
 
     list-style: square;
-    color: green;
+    color:white;
     margin-left: -25px;
 
     
@@ -74,6 +73,6 @@ li{
 }
 
 a{
-    color: green;
+    color:white;
     font-size: 15px;
 }
