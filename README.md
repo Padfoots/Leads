@@ -36,9 +36,9 @@ To install Leads, follow these simple steps:
 Once the Leads extension is installed, you can start saving bookmarks using either of the following methods:
 
 1. **Manual Bookmarking**:
-   -copy webpage link
-   -click on the leads extension icon in the chrome toolbar.
-   -copy the link address in the input section
+   - copy webpage link.
+   - click on the leads extension icon in the chrome toolbar.
+   - copy the link address in the input section
    - Click **Save input** to store the bookmark.
 
 3. **Automatic Bookmarking**:
